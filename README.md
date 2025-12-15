@@ -43,7 +43,7 @@
 
 ### 🔗 Connect with me
 <p align="left">
-<a href="https://www.linkedin.com/in/aryan-sehgal-599443271/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aryan-sehgal" /></a>
+<a href="https://www.linkedin.com/in/aryan-599443271" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aryan-sehgal" /></a>
 <a href="mailto:aryan411770@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 </p>
 
