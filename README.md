@@ -75,7 +75,7 @@ Built a full-stack financial application featuring an **AI agent with conversati
 
 **Tech Stack:** React, Node.js, Express, MongoDB, Groq API(Llama 3.3), Recharts
 
-**[Live Demo](https://expense-tracker-frontend-frqq.onrender.com/)** | **[Source Code](https://github.com/Aryan-404-404/Expense-Tracker)**
+**[Live Demo](https://ai-expense-tracker-seven-alpha.vercel.app/)** | **[Source Code](https://github.com/Aryan-404-404/Expense-Tracker)**
 
 ---
 
