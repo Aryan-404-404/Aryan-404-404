@@ -62,7 +62,7 @@ I'm a full-stack developer passionate about building intelligent, user-centric a
 
 ## 🚀 Featured Projects
 
-### 🤖 [AI-Powered Expense Tracker](https://expense-tracker-frontend-frqq.onrender.com/)
+### 🤖 [AI-Powered Expense Tracker](https://ai-expense-tracker-seven-alpha.vercel.app/)
 > Smart finance management with conversational AI
 
 Built a full-stack financial application featuring an **AI agent with conversation memory** that provides personalized budget advice based on real spending patterns.
