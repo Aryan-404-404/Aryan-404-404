@@ -21,7 +21,7 @@ I'm a full-stack developer passionate about building intelligent, user-centric a
 
 **What I'm working on:**
 - 🤖 Exploring advanced AI integration patterns and agentic systems
-- 🧠 Solving algorithmic challenges - **180+ problems** LeetCode
+- 🧠 Solving algorithmic challenges - **200+ problems** LeetCode
 - 📚 Learning system design and scalable architecture patterns
 
 **What drives me:**
@@ -79,6 +79,31 @@ Built a full-stack financial application featuring an **AI agent with conversati
 
 ---
 
+## 🎯 [JobFlow.ai - Intelligent Job Application Assistant](https://job-flow-ai-three.vercel.app/)
+> Chrome extension meets AI-powered dashboard for seamless job tracking
+
+Built a distributed system that bridges the gap between job browsing and application management with **1-click job scraping** and **AI-powered resume scoring** that analyzes fit before you even apply.
+
+### **Key Features:**
+- **Chrome Extension with Instant Scraping:** One-click DOM extraction from LinkedIn and job boards using Manifest V3 APIs
+- **AI-Powered Resume Analysis:** Semantic matching using Groq (Llama 3-70B) with 0-100 match scoring
+- **Real-Time Skill Gap Detection:** Identifies missing keywords and required competencies
+- **Cross-Origin Secure Authentication:** HttpOnly cookies prevent XSS while maintaining session sync between extension and dashboard
+- **Structured AI Outputs:** Strict JSON validation ensures reliable UI rendering and consistent responses
+
+### **Technical Highlights:**
+- **Distributed Architecture:** Seamless state sharing between Chrome Extension and Web Dashboard
+- **Robust Security:** JWT-based authentication with SameSite=None cookies for cross-origin requests
+- **Optimized Database Schema:** MongoDB with indexing for fast queries and scalability
+- **Separation of Concerns:** Isolated hooks for browser interactions vs. network requests to prevent race conditions
+
+### **Tech Stack:** 
+React, Vite, Node.js, Express, MongoDB (Mongoose), Groq API (Llama 3-70B), Chrome Extension (Manifest V3), Tailwind CSS, Context API, Lucide React
+
+**[Live Demo](https://job-flow-ai-three.vercel.app/)** | **[Source Code](https://github.com/Aryan-404-404/JobFlow-AI)**
+
+---
+
 ### 📄 [AI Resume Analyzer](https://ai-resume-analyzer-pi-ruby.vercel.app/)
 > ATS-optimized resume analysis with lightning-fast inference
 
@@ -93,23 +118,6 @@ Engineered a real-time resume analyzer that **achieved 10x faster inference** by
 **Tech Stack:** React, Groq API (Llama 3.3), Tailwind CSS, pdfjs-dist, Web Workers
 
 **[Live Demo](https://ai-resume-analyzer-pi-ruby.vercel.app/)** | **[Source Code](https://github.com/Aryan-404-404/AI-Resume-Analyzer)**
-
----
-
-### 🏨 [Hotel Booking Management System](https://hotel-booking-site-frontend.onrender.com/)
-> Full-featured booking platform with role-based access
-
-Developed a complete booking management system with separate admin and user workflows, featuring real-time email notifications and inventory management.
-
-**Key Features:**
-- Role-Based Access Control (RBAC) for Admin and User roles
-- Real-time booking confirmations via SendGrid API
-- Dynamic admin dashboard for inventory and booking management
-- RESTful API design with secure session management
-
-**Tech Stack:** Node.js, Express, MongoDB, EJS, SendGrid
-
-**[Live Demo](https://hotel-booking-site-frontend.onrender.com/)** | **[Source Code](https://github.com/Aryan-404-404/Hotel-booking-Site)**
 
 ---
 
@@ -131,7 +139,7 @@ Developed a complete booking management system with separate admin and user work
 
 Strong foundation in **data structures and algorithms** with focus on logic building and optimization:
 
-- **180+ problems** solved LeetCode
+- **200+ problems** solved LeetCode
 - **50+ SQL problems** mastered on LeetCode
 
 **[View LeetCode Profile →](https://leetcode.com/u/aryan411770/)**
