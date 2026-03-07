@@ -21,7 +21,7 @@ I'm a full-stack developer passionate about building intelligent, user-centric a
 
 **What I'm working on:**
 - 🤖 Exploring advanced AI integration patterns and agentic systems
-- 🧠 Solving algorithmic challenges - **200+ problems** LeetCode
+- 🧠 Solving algorithmic challenges - **210+ problems** LeetCode
 - 📚 Learning system design and scalable architecture patterns
 
 **What drives me:**
@@ -139,7 +139,7 @@ Engineered a real-time resume analyzer that **achieved 10x faster inference** by
 
 Strong foundation in **data structures and algorithms** with focus on logic building and optimization:
 
-- **200+ problems** solved LeetCode
+- **210+ problems** solved LeetCode
 - **50+ SQL problems** mastered on LeetCode
 
 **[View LeetCode Profile →](https://leetcode.com/u/aryan411770/)**
